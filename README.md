@@ -28,4 +28,9 @@ Logger.log(response.getContentText());
 * click on `Run` button
 Review Permissions > Click `YOUR GOOGLE ACCOUNT` > If it shows `Google hasn’t verified this app` > Then click `Advanced` > `Go to Untitled project (unsafe)` > `Allow`
 * After above step your project has permission to run gs.
+* Run Trigger script to configure When you need to ping your URL or website
+### Trigger
+* After doing above step on left menu you can see trigger option > click it
+* Then on Botton Right Corner You can see `Add Trigger` Button > click it
+* 
 
