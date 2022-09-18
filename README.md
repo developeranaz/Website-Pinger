@@ -1,12 +1,13 @@
 # Website-Pinger
 Website pinger is a free pinger by using free google script(gs). 
-
+You can ping your website whenever you want whether it is day based, month based, time based, hourly based or minute based.
+This will also gives a clean overview about analytics errors for your website.
 
 
 
 
 ### Requirements
-* A google account 
+* A free google account 
 
 ## How to use
 * sign in to a google account
@@ -32,5 +33,5 @@ Review Permissions > Click `YOUR GOOGLE ACCOUNT` > If it shows `Google hasn’t 
 ### Trigger
 * After doing above step on left menu you can see trigger option > click it
 * Then on Botton Right Corner You can see `Add Trigger` Button > click it
-* 
+* Then set `Select event source`, `Select type of time based trigger` & `Select hour interval` as per you needs and save it. 
 
